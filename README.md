@@ -1,5 +1,5 @@
-<H3>NAME: hashish vidya sagr </H3>
-<H3>REGISTER NO: 212223240116 </H3>
+<H3>NAME: Dinesh S </H3>
+<H3>REGISTER NO: 212222230033 </H3>
 <H3>EX. NO.6</H3>
 <H3>DATE: 23-10-2025</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
